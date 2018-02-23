@@ -1,39 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Sycube. | CONDA Europe</title>
-    <link rel="icon" href="https://www.conda.eu/wp-content/themes/conda/frontend/images/favicon.ico" type="image/x-icon" />
-    <link rel="stylesheet" href="assets/font-awesome/fontawesome-free-5.0.6/web-fonts-with-css/css/fontawesome-all.css">
-    <link rel="stylesheet" href="css/style.css">
-</head>
-<body>
-    <header>
-        <!--main nav-->
-        <section class="border-bottom">
-            <div class="container">
-                <nav class="navbar navbar-expand-lg navbar-light px-0">
-                    <a class="navbar-brand d-flex align-items-center" href="#"><img src="imgs/conda-logo-default.png">
-                        <p class="text-uppercase ml-3 m-0 small text-dark">crowd<b>investing</b></p></a>
-                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
-                        <span class="navbar-toggler-icon"></span>
-                    </button>
-                    
-                    <div class="collapse navbar-collapse text-center" id="navbarTogglerDemo02">
-                        <div class="navbar-nav ml-auto mt-2 mt-lg-0">
-                            <a class="nav-item text-uppercase text-dark h-100 p-3" href="#"><span class="small font-weight-bold d-block">projects to</span><span>discover</span></a>
-                            <a class="nav-item text-uppercase text-dark h-100 p-3" href="#"><span class="small font-weight-bold d-block">why invest in</span><span>crowdinvesting</span></a>
-                            <a class="nav-item text-uppercase text-dark h-100 p-3" href="#"><span class="small font-weight-bold d-block">submit a</span><span>project</span></a>
-                            <a class="nav-item text-uppercase text-dark h-100 p-3" href="#"><span class="small font-weight-bold d-block">about</span><span>conda</span></a>
-                            <a class="nav-item text-uppercase text-dark h-100 p-3" href="#"><span class="text-light rounded-circle bg-dark p-1">NN</span></a>
-                        </div>
-                    </div>
-                </nav>
-            </div>
-        </section>
-    </header>
+    <?php include 'header.php';?>
     <main>
         <!--cover-->
         <div class="cover bg-dark py-5">
@@ -197,27 +162,27 @@
                             <a href="#" class="text-success">>>Businessplan<<</a>
                         </div>
                         <div class="my-5">
-                            <div class="d-flex align-items-center">
+                            <div class="d-flex align-items-center mb-4">
                                 <img src="imgs/sycube/table/first.jpg" alt="">
                                 <p class="pl-3 m-0">Wir ermöglichen mit unserem patentierten System völlige Freiheit bei der Auswahl von einspurigen Leihfahrzeuge und bieten somit höchste Flexibilität bei der Bestückung von Verleihsystemen. Wir sind der einzige Anbieter, der ein flexibles, offenes und skalierbares Komplettsystem zum automatischen Verleih und der Verwaltung, sowie Ladung von einspurigen Fahrzeugen anbietet.</p>
                             </div>
-                            <div class="d-flex align-items-center">
+                            <div class="d-flex align-items-center mb-4">
                                 <img src="imgs/sycube/table/second.jpg" alt="">
                                 <p class="pl-3 m-0">Unser Geschäftsmodell basiert auf einer Multisäulen-Vertriebsstrategie und zielt auf eine horizontale Diversifikation (Geschäftsfelder) und einer vertikalen Diversifikation (Modulares Komplettsystem) ab. Wachstum über die Geschäftsfelder “City & Regions”, “Company & Campus” und “System & Support” steht hierbei im Fokus.</p>
                             </div>
-                            <div class="d-flex align-items-center">
+                            <div class="d-flex align-items-center mb-4">
                                 <img src="imgs/sycube/table/third.jpg" alt="">
                                 <p class="pl-3 m-0">Mithilfe eines modernen Marketingmixs (Inbound-Marketing) und der Multisäulen-Vertriebsstrategie, wollen wir durch rasches Wachstum zur Marktführer im Bereich der Rentable (e)Mobility bzw. automatisierten Verleihsysteme werden.</p>
                             </div>
-                            <div class="d-flex align-items-center">
+                            <div class="d-flex align-items-center mb-4">
                                 <img src="imgs/sycube/table/fourth.jpg" alt="">
                                 <p class="pl-3 m-0">Nachhaltige Mobilitätsstrategien (CO2-Reduktion, Paris 2020, Last Mile, eMobility, etc.) sind den Fokus für Länder, Städte und Kommunen gerückt. Gepaart mit dem allgemeinen Fahrrad-Trend in Großstädten (Studie Bike Europe) resultiert allein im Bereich “City & Regions” ein Marktpotenzial von 3 Milliarden Euro.</p>
                             </div>
-                            <div class="d-flex align-items-center">
+                            <div class="d-flex align-items-center mb-4">
                                 <img src="imgs/sycube/table/fifth.jpg" alt="">
                                 <p class="pl-3 m-0">Die Gründer von Sycube bilden zusammen mit Geschäftsführer Klaus L. Ziegler und dem Leiter der Programmierung Mathias Zax das Schlüsselpersonal des Unternehmens. Gemeinsam leiten sie ein eingespieltes Team von 8 Mitarbeitern aus den Bereichen Technik, Vertrieb und Softwareentwicklung.</p>
                             </div>
-                            <div class="d-flex align-items-center">
+                            <div class="d-flex align-items-center mb-4">
                                 <img src="imgs/sycube/table/sixth.jpg" alt="">
                                 <p class="pl-3 m-0">Der Kapitalbedarf der nächsten 24 Monate beträgt 1.000.000,- Euro. Die Mittel werden ausschließlich zum Wachstum durch den Aufbau von Mitarbeitern verwendet.</p>
                             </div>
@@ -351,12 +316,16 @@
                     <!--blog-->
                     <div class="tab-pane fade" id="pill-blog" role="tabpanel" aria-labelledby="pill-blog-tab">
                         <p class="text-muted">No entries found.</p>
-                        <div class="card mt-3">
-                            <div class="card-body p-3">
-                                <a href="#"><img class="img-fluid w-100" src="imgs/sycube/news.png"></a>
-                                <a href="#" class="text-dark"><h3 class="py-3">Solarenergie Ulm: Einkaufsgutschein für Brennstoff-Holzpellets</h3></a>
-                                <div class="card-subtitle text-muted font-weight-light d-flex mb-3"><i class="far fa-clock text-success align-items-center pr-2"></i><h6> 17. Januar 2018 von Birgit Beiersdorf in <a href="#" class="text-success">Sycube</a></h6></div>
-                                <p>Wer seinen abgeschmückten Weihnachtsbaum im Pelletwerk Sachsenburg abgegeben hat, erhielt dafür einen Einkaufsgutschein für Brennstoff-Holzpellets im Wert von 10 Euro. Mit dieser Aktion wollte die Solarenergie Ulm auf den Ankauf des Pelletwerkes in Sachsenburg aufmerksam machen und zur geordneten Verwertung der Weihnachtsbäume in den Wärmekreislauf beitragen. "Vielleicht gelingt es, in den kommenden Jahren aus dieser […] <a class="text-success" href="#">weiter lesen</a></p>
+                        <div class="container-fluid">
+                            <div class="row">
+                                <div class="card mt-3 col-12 col-sm-6">
+                                    <div class="card-body p-3">
+                                        <a href="#"><img class="img-fluid w-100" src="imgs/sycube/news.jpg"></a>
+                                        <a href="#" class="text-dark"><h3 class="py-3">Solarenergie Ulm: Einkaufsgutschein für Brennstoff-Holzpellets</h3></a>
+                                        <div class="card-subtitle text-muted font-weight-light d-flex mb-3"><i class="far fa-clock text-success align-items-center pr-2"></i><h6> 17. Januar 2018 von Birgit Beiersdorf in <a href="#" class="text-success">Sycube</a></h6></div>
+                                        <p>Wer seinen abgeschmückten Weihnachtsbaum im Pelletwerk Sachsenburg abgegeben hat, erhielt dafür einen Einkaufsgutschein für Brennstoff-Holzpellets im Wert von 10 Euro. Mit dieser Aktion wollte die Solarenergie Ulm auf den Ankauf des Pelletwerkes in Sachsenburg aufmerksam machen und zur geordneten Verwertung der Weihnachtsbäume in den Wärmekreislauf beitragen. "Vielleicht gelingt es, in den kommenden Jahren aus dieser […] <a class="text-success" href="#">weiter lesen</a></p>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -419,28 +388,28 @@
                     </div>
                     <div class="mb-1 bg-light p-3">
                         <div class="d-flex align-items-center flex-wrap">
-                            <h1 class="mb-0 text-success mb-3">500<sup>€</sup></h1><p class="h5 ml-lg-2 font-weight-light text-success mb-0 mb-3">Investment</p>
+                            <h1 class="mb-0 text-success mb-3">500<sup>€</sup></h1><p class="h5 ml-lg-2 font-weight-light text-success mb-0 ml-md-1 mb-3">Investment</p>
                         </div>
                         <h4 class="mb-0 mb-3">BRONZE</h4>
                         <p class="mb-0">Als Dankeschön für Ihre Investition erhalten Sie zusätzlich zu der laufenden Verzinsung und einer Beteiligung an der Unternehmenswertsteigerung eine Sycube-Powerbank.</p>
                     </div>
                     <div class="mb-1 bg-light p-3">
                         <div class="d-flex align-items-center flex-wrap">
-                            <h1 class="mb-0 text-success mb-3">2,500<sup>€</sup></h1><p class="h5 ml-lg-2 font-weight-light text-success mb-0 mb-3">Investment</p>
+                            <h1 class="mb-0 text-success mb-3">2,500<sup>€</sup></h1><p class="h5 ml-lg-2 font-weight-light text-success mb-0 ml-md-1 mb-3">Investment</p>
                         </div>
                         <h4 class="mb-0 mb-3">SILBER</h4>
                         <p class="mb-0">Als Dankeschön für Ihre Investition erhalten Sie zusätzlich zu der laufenden Verzinsung und einer Beteiligung an der Unternehmenswertsteigerung ein Paar Bose SoundSport Headphones.</p>
                     </div>
                     <div class="mb-1 bg-light p-3">
                         <div class="d-flex align-items-center flex-wrap">
-                            <h1 class="mb-0 text-success mb-3">5,000<sup>€</sup></h1><p class="h5 ml-lg-2 font-weight-light text-success mb-0 mb-3">Investment</p>
+                            <h1 class="mb-0 text-success mb-3">5,000<sup>€</sup></h1><p class="h5 ml-lg-2 font-weight-light text-success mb-0 ml-md-1 mb-3">Investment</p>
                         </div>
                         <h4 class="mb-0 mb-3">GOLD</h4>
                         <p class="mb-0">Als Dankeschön für Ihre Investition erhalten Sie zusätzlich zu der laufenden Verzinsung und einer Beteiligung an der Unternehmenswertsteigerung ein Paar Bose SoundLink around-ear wireless II Headphones.</p>
                     </div>
                     <div class="mb-1 bg-light p-3">
                         <div class="d-flex align-items-center flex-wrap">
-                            <h1 class="mb-0 text-success mb-3">10,000<sup>€</sup></h1><p class="h5 ml-lg-2 font-weight-light text-success mb-0 mb-3">Investment</p>
+                            <h1 class="mb-0 text-success mb-3">10,000<sup>€</sup></h1><p class="h5 ml-lg-2 font-weight-light text-success mb-0 ml-md-1 mb-3">Investment</p>
                         </div>
                         <h4 class="mb-0 mb-3">PLATIN</h4>
                         <p class="mb-0">Als Dankeschön für Ihre Investition erhalten Sie zusätzlich zu der laufenden Verzinsung und einer Beteiligung an der Unternehmenswertsteigerung ein Paar Bose QuietComfort 35 Wireless Headphones.</p>
@@ -484,125 +453,4 @@
             </div>
         </section>
     </main>
-    <footer>
-        <!--social icons-->
-        <div class="bg-light py-3">
-            <section class="container">
-                <div class="social-media-wrapper m-auto text-center">
-                    <h6 class="text-center my-3 font-weight-light">FOLLOW US ON</h6>
-                    <a href="#" class="text-light bg-primary text-center rounded-circle d-inline-block px-3 py-2 mx-sm-1 mx-md-4">
-                        <div class="social-media-item">
-                            <i class="fab fa-fw fa-facebook-f"></i>
-                        </div>
-                    </a>
-                    <a href="#" class="text-light bg-primary text-center rounded-circle d-inline-block px-3 py-2 mx-sm-1 mx-md-4">
-                        <div class="social-media-item">
-                            <i class="fab fa-fw fa-twitter"></i>
-                        </div>
-                    </a>
-                    <a href="#" class="text-light bg-primary text-center rounded-circle d-inline-block px-3 py-2 mx-sm-1 mx-md-4">
-                        <div class="social-media-item">
-                            <i class="fab fa-fw fa-google-plus-g"></i>
-                        </div>
-                    </a>
-                    <a href="#" class="text-light bg-primary text-center rounded-circle d-inline-block px-3 py-2 mx-sm-1 mx-md-4">
-                        <div class="social-media-item">
-                            <i class="fab fa-fw fa-linkedin-in"></i>
-                        </div>
-                    </a>
-                    <a href="#" class="text-light bg-primary text-center rounded-circle d-inline-block px-3 py-2 mx-sm-1 mx-md-4">
-                        <div class="social-media-item">
-                            <i class="fab fa-fw fa-xing"></i>
-                        </div>
-                    </a>
-                    <a href="#" class="text-light bg-primary text-center rounded-circle d-inline-block px-3 py-2 mx-sm-1 mx-md-4">
-                        <div class="social-media-item">
-                            <i class="fab fa-fw fa-youtube"></i>
-                        </div>
-                    </a>
-                </div>
-            </section>
-        </div>
-        <!--contact-->
-        <div class="bg-primary py-5 border-top border-dark">
-            <section class="container">
-                <div class="row text-center text-md-left">
-                    <div class="contact-item col-xs-6 col-md-3 px-3">
-                        <img src="imgs/conda-alt.png" alt="CONDA" class="img-fluid d-md-block d-none">
-                    </div>
-                    <div class="contact-item col-xs-6 col-md-3 px-3 pb-sm-3 text-light">
-                        <p class="mb-sm-0">CONDA Crowdinvesting Europe</p>
-                        <p class="mb-sm-0">Donau-City-Straße 6, 1220 Vienna</p>
-                    </div>
-                    <div class="contact-item col-xs-6 col-md-3 px-3 pb-sm-3">
-                        <a href="#" class="text-light">team@conda.eu</a>
-                        <div class="w-100"></div>
-                        <a href="#" class="text-light">team@conda.at</a>
-                    </div>
-                    <div class="contact-item col-xs-6 col-md-3 px-3 text-light">
-                        <a href="#" class="text-light">Risk disclosure</a>
-                        <div class="w-100"></div>
-                        <a href="#" class="text-light">Site notice</a>/
-                        <a href="#" class="text-light">Blog</a>/
-                        <a href="#" class="text-light">Help</a>
-                    </div>
-                </div>
-            </section>
-        </div>
-        <!--supporters-->
-        <div class="bg-primary py-5 border-top border-white">
-            <section class="container">
-                <div class="text-light">
-                    <h6>CONDA IS SUPPORTED BY</h4>
-                </div>
-                <a href="#" class="pr-2"><img src="imgs/supporters/3c.png" alt=""></a>
-                <a href="#" class="pr-2"><img src="imgs/supporters/kapsch.png" alt=""></a>
-                <a href="#" class="pr-2"><img src="imgs/supporters/m27.png" alt=""></a>
-                <a href="#" class="pr-2"><img src="imgs/supporters/rise.png" alt=""></a>
-                <a href="#" class="pr-2"><img src="imgs/supporters/schoenherr.png" alt=""></a>
-                <a href="#" class="pr-2"><img src="imgs/supporters/tpa.png" alt=""></a>
-                <a href="#" class="pr-2"><img src="imgs/supporters/vbv.png" alt=""></a>
-                <a href="#" class="pr-2"><img src="imgs/supporters/engarde.png" alt=""></a>
-                <a href="#" class="pr-2"><img src="imgs/supporters/lemonway.png" alt=""></a>
-            </section>
-        </div>
-        <!--cooperators-->
-        <div class="bg-primary py-5 border-top border-white">
-            <section class="container">
-                <div class="text-light">
-                    <h6>IN COOPERATION WITH</h4>
-                </div>
-                <a href="#" class="pr-2"><img src="imgs/supporters/whataventure.png" alt=""></a>
-                <a href="#" class="pr-2"><img src="imgs/supporters/venionaire.png" alt=""></a>
-                <a href="#" class="pr-2"><img src="imgs/supporters/strasser.png" alt=""></a>
-                <a href="#" class="pr-2"><img src="imgs/supporters/treibhaus.png" alt=""></a>
-                <a href="#" class="pr-2"><img src="imgs/supporters/m4e.png" alt=""></a>
-                <a href="#" class="pr-2"><img src="imgs/supporters/ndu.png" alt=""></a>
-                <a href="#" class="pr-2"><img src="imgs/supporters/manageers.png" alt=""></a>
-                <a href="#" class="pr-2"><img src="imgs/supporters/arax.png" alt=""></a>
-                <a href="#" class="pr-2"><img src="imgs/supporters/aws.png" alt=""></a>
-                <a href="#" class="pr-2"><img src="imgs/supporters/ecn.png" alt=""></a>
-                <a href="#" class="pr-2"><img src="imgs/supporters/fhwien.png" alt=""></a>
-                <a href="#" class="pr-2"><img src="imgs/supporters/fluidtime.png" alt=""></a>
-                <a href="#" class="pr-2"><img src="imgs/supporters/financenext.png" alt=""></a>
-                <a href="#" class="pr-2"><img src="imgs/supporters/ideenpark.png" alt=""></a>
-                <a href="#" class="pr-2"><img src="imgs/supporters/buro.png" alt=""></a>
-                <a href="#" class="pr-2"><img src="imgs/supporters/avco.png" alt=""></a>
-                <a href="#" class="pr-2"><img src="imgs/supporters/ac.png" alt=""></a>
-                <a href="#" class="pr-2"><img src="imgs/supporters/boyastar.png" alt=""></a>
-                <a href="#" class="pr-2"><img src="imgs/supporters/kubator.png" alt=""></a>
-                <a href="#" class="pr-2"><img src="imgs/supporters/shiftyard.png" alt=""></a>
-            </section>
-        </div>
-        <!--emblems-->
-        <div class="bg-primary py-5 border-top border-white">
-            <section class="container">
-                <a href="#" class="pr-2"><img src="imgs/supporters/emblem1.png" alt=""></a>
-                <a href="#" class="pr-2"><img src="imgs/supporters/emblem2.png" alt=""></a>
-            </section>
-        </div>
-    </footer>
-    <script src="assets/jquery/jquery-3.3.1.js"></script>
-    <script src="assets/node_modules/bootstrap/dist/js/bootstrap.bundle.js"></script>
-</body>
-</html>
+    <?php include 'footer.php';?>
