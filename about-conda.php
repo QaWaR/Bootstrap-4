@@ -156,8 +156,8 @@
                             <img class="rounded-circle pr-2" src="imgs/about/karin-timmel.jpg" alt="">
                         </div>
                         <div>
-                            <p class="font-weight-light m-0">Chief Executive Officer</p>
-                            <p class="font-weight-bold m-0">KATHARINA EHRENFELLNER</p>
+                            <p class="font-weight-light m-0">Chief Marketing Officer</p>
+                            <p class="font-weight-bold m-0">KARIN TURKI</p>
                         </div>
                     </div>
                     <div class="col-12 col-sm-6 d-flex align-items-center mb-5">
@@ -165,8 +165,8 @@
                             <img class="rounded-circle pr-2" src="imgs/about/michael-lipper-2.jpg" alt="">
                         </div>
                         <div>
-                            <p class="font-weight-light m-0">Business Analyst</p>
-                            <p class="font-weight-bold m-0">HANNES REITHUBER</p>
+                            <p class="font-weight-light m-0">Head of Investment Management</p>
+                            <p class="font-weight-bold m-0">MICHAEL LIPPER</p>
                         </div>
                     </div>
                     <div class="col-12 col-sm-6 d-flex align-items-center mb-5">
@@ -174,52 +174,52 @@
                             <img class="rounded-circle pr-2" src="imgs/about/andreas-heissenberger.jpg" alt="">
                         </div>
                         <div>
-                            <p class="font-weight-light m-0">Project and Campaign Manager</p>
-                            <p class="font-weight-bold m-0">HANNAH STURM</p>
+                            <p class="font-weight-light m-0">Chief Information Officer</p>
+                            <p class="font-weight-bold m-0">ANDREAS HEISSENBERGER</p>
                         </div>
                     </div>
                     <div class="col-12 col-sm-6 d-flex align-items-center mb-5">
                         <div class="d-flex">
                             <div class="pr-2">
-                                <p class="h1 font-weight-light text-white bg-primary rounded-circle p-3 mb-0">NN</p>
+                                <p class="h1 font-weight-light text-white bg-primary rounded-circle p-3 mb-0">SE</p>
                             </div>
                         </div>
                         <div>
-                            <p class="font-weight-light m-0">Investor Relations Manager</p>
-                            <p class="font-weight-bold m-0">MARIA KOPP</p>
+                            <p class="font-weight-light m-0">Assistant to the Managing Partners</p>
+                            <p class="font-weight-bold m-0">SUSANNE ENGELMANN</p>
                         </div>
                     </div>
                     <div class="col-12 col-sm-6 d-flex align-items-center mb-5">
                         <div class="d-flex">
                             <div class="pr-2">
-                                <p class="h1 font-weight-light text-white bg-primary rounded-circle p-3 mb-0">NN</p>
+                                <p class="h1 font-weight-light text-white bg-primary rounded-circle p-3 mb-0">EB</p>
                             </div>
                         </div>
                         <div>
-                            <p class="font-weight-light m-0">Marketing Assistant</p>
-                            <p class="font-weight-bold m-0">LARA SCHEIBER</p>
+                            <p class="font-weight-light m-0">Project Manager</p>
+                            <p class="font-weight-bold m-0">ERIKA BOON</p>
                         </div>
                     </div>
                     <div class="col-12 col-sm-6 d-flex align-items-center mb-5">
                         <div class="d-flex">
                             <div class="pr-2">
-                                <p class="h1 font-weight-light text-white bg-primary rounded-circle p-3 mb-0">NN</p>
+                                <p class="h1 font-weight-light text-white bg-primary rounded-circle p-3 mb-0">SM</p>
                             </div>
                         </div>
                         <div>
-                            <p class="font-weight-light m-0">Payment Service Manager</p>
-                            <p class="font-weight-bold m-0">DANIEL PÖMMER</p>
+                            <p class="font-weight-light m-0">Online Marketing Manager</p>
+                            <p class="font-weight-bold m-0">SASCHA MANHART</p>
                         </div>
                     </div>
                     <div class="col-12 col-sm-6 d-flex align-items-center mb-5">
                         <div class="d-flex">
                             <div class="pr-2">
-                                <p class="h1 font-weight-light text-white bg-primary rounded-circle p-3 mb-0">NN</p>
+                                <p class="h1 font-weight-light text-white bg-primary rounded-circle p-3 mb-0">DP</p>
                             </div>
                         </div>
                         <div>
-                            <p class="font-weight-light m-0">Payment Service Manager</p>
-                            <p class="font-weight-bold m-0">DANIEL PÖMMER</p>
+                            <p class="font-weight-light m-0">Controlling & Finance</p>
+                            <p class="font-weight-bold m-0">DANIEL PETSCH</p>
                         </div>
                     </div>
                 </div>
