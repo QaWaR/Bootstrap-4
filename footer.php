@@ -4,32 +4,32 @@
                 <section class="container">
                     <div class="social-media-wrapper m-auto text-center">
                         <h6 class="text-center my-3 font-weight-light">FOLLOW US ON</h6>
-                        <a href="#" class="text-light bg-primary text-center rounded-circle d-inline-block px-3 py-2 mx-sm-1 mx-md-4">
+                        <a href="#" class="text-light bg-primary text-center rounded-circle d-inline-block px-3 py-2 my-3 mx-4 mx-sm-5 mx-md-3">
                             <div class="social-media-item">
                                 <i class="fab fa-fw fa-facebook-f"></i>
                             </div>
                         </a>
-                        <a href="#" class="text-light bg-primary text-center rounded-circle d-inline-block px-3 py-2 mx-sm-1 mx-md-4">
+                        <a href="#" class="text-light bg-primary text-center rounded-circle d-inline-block px-3 py-2 my-3 mx-4 mx-sm-5 mx-md-3">
                             <div class="social-media-item">
                                 <i class="fab fa-fw fa-twitter"></i>
                             </div>
                         </a>
-                        <a href="#" class="text-light bg-primary text-center rounded-circle d-inline-block px-3 py-2 mx-sm-1 mx-md-4">
+                        <a href="#" class="text-light bg-primary text-center rounded-circle d-inline-block px-3 py-2 my-3 mx-4 mx-sm-5 mx-md-3">
                             <div class="social-media-item">
                                 <i class="fab fa-fw fa-google-plus-g"></i>
                             </div>
                         </a>
-                        <a href="#" class="text-light bg-primary text-center rounded-circle d-inline-block px-3 py-2 mx-sm-1 mx-md-4">
+                        <a href="#" class="text-light bg-primary text-center rounded-circle d-inline-block px-3 py-2 my-3 mx-4 mx-sm-5 mx-md-3">
                             <div class="social-media-item">
                                 <i class="fab fa-fw fa-linkedin-in"></i>
                             </div>
                         </a>
-                        <a href="#" class="text-light bg-primary text-center rounded-circle d-inline-block px-3 py-2 mx-sm-1 mx-md-4">
+                        <a href="#" class="text-light bg-primary text-center rounded-circle d-inline-block px-3 py-2 my-3 mx-4 mx-sm-5 mx-md-3">
                             <div class="social-media-item">
                                 <i class="fab fa-fw fa-xing"></i>
                             </div>
                         </a>
-                        <a href="#" class="text-light bg-primary text-center rounded-circle d-inline-block px-3 py-2 mx-sm-1 mx-md-4">
+                        <a href="#" class="text-light bg-primary text-center rounded-circle d-inline-block px-3 py-2 my-3 mx-4 mx-sm-5 mx-md-3">
                             <div class="social-media-item">
                                 <i class="fab fa-fw fa-youtube"></i>
                             </div>
@@ -44,11 +44,11 @@
                         <div class="contact-item col-xs-6 col-md-3 px-3">
                             <img src="imgs/conda-alt.png" alt="CONDA" class="img-fluid d-md-block d-none">
                         </div>
-                        <div class="contact-item col-xs-6 col-md-3 px-3 pb-sm-3 text-light">
+                        <div class="contact-item col-xs-6 col-md-3 px-3 pb-3 pb-md-0 text-light">
                             <p class="mb-sm-0">CONDA Crowdinvesting Europe</p>
                             <p class="mb-sm-0">Donau-City-Straße 6, 1220 Vienna</p>
                         </div>
-                        <div class="contact-item col-xs-6 col-md-3 px-3 pb-sm-3">
+                        <div class="contact-item col-xs-6 col-md-3 px-3 pb-3 pb-md-0">
                             <a href="#" class="text-light">team@conda.eu</a>
                             <div class="w-100"></div>
                             <a href="#" class="text-light">team@conda.at</a>
@@ -64,10 +64,10 @@
                 </section>
             </div>
             <!--supporters-->
-            <div class="bg-primary py-5 border-top border-white">
+            <div class="bg-primary py-5 border-top border-white text-center text-md-left">
                 <section class="container">
                     <div class="text-light">
-                        <h6>CONDA IS SUPPORTED BY</h4>
+                        <h6 class="mb-4">CONDA IS SUPPORTED BY</h4>
                     </div>
                     <a href="#" class="pr-2"><img src="imgs/supporters/3c.png" alt=""></a>
                     <a href="#" class="pr-2"><img src="imgs/supporters/kapsch.png" alt=""></a>
@@ -81,10 +81,10 @@
                 </section>
             </div>
             <!--cooperators-->
-            <div class="bg-primary py-5 border-top border-white">
+            <div class="bg-primary py-5 border-top border-white text-center text-md-left">
                 <section class="container">
                     <div class="text-light">
-                        <h6>IN COOPERATION WITH</h4>
+                        <h6 class="mb-4">IN COOPERATION WITH</h4>
                     </div>
                     <a href="#" class="pr-2"><img src="imgs/supporters/whataventure.png" alt=""></a>
                     <a href="#" class="pr-2"><img src="imgs/supporters/venionaire.png" alt=""></a>
@@ -109,7 +109,7 @@
                 </section>
             </div>
             <!--emblems-->
-            <div class="bg-primary py-5 border-top border-white">
+            <div class="bg-primary py-5 border-top border-white text-center text-md-left">
                 <section class="container">
                     <a href="#" class="pr-2"><img src="imgs/supporters/emblem1.png" alt=""></a>
                     <a href="#" class="pr-2"><img src="imgs/supporters/emblem2.png" alt=""></a>

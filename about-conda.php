@@ -18,13 +18,13 @@
                 <div class="pr-5">
                     <h1 class="display-4 mb-5">Our Principles</h1>
                     <h4 class="font-weight-light mb-4">CONDA is more than a crowdinvesting platform. CONDA is the connecting link between entrepreneurs and investors, helping them realise something great together.</h4>
-                    <p class="font-weight-bold m-0">At CONDA people take priority.</p>
+                    <p class="font-weight-bold m-0 mb-2">At CONDA people take priority.</p>
                     <p>We place particular emphasis and value on personal contact and regional proximity – whether it concerns the entrepreneurs, our investors, our partners or of course our international team.</p>
-                    <p class="font-weight-bold m-0">Regional proximity as well as investments beyond the borders.</p>
+                    <p class="font-weight-bold m-0 mb-2">Regional proximity as well as investments beyond the borders.</p>
                     <p>At CONDA you have the possibility of investing beyond the borders, in European businesses. We are constantly working to extend our network.</p>
                     <p>However proximity is also very important to us. For this reason, investors have the opportunity to invest in projects in their own region. On the one hand they support their local economy and on the other hand they have the opportunity to be close to the business and to be part of the development.</p>
                     <p>On the other hand the entrepreneurs benefit from our regional partners, with whom they can get in personal contact. This in turn allows us to give individual attention to our customers and accompany them through the whole crowdinvesting campaign as best possible.</p>
-                    <p class="font-weight-bold m-0">Expertise, team and experience.</p>
+                    <p class="font-weight-bold m-0 mb-2">Expertise, team and experience.</p>
                     <p>Through our highly-qualified partners we have a broad spectrum of expertise in the most diverse fields and markets, to achieve the highest quality in our crowdinvesting projects. This process begins right from the start in the thorough and objective selection of the best ideas, which we choose together with our Advisory Board.</p>
                     <p>To our customers we offer professional service as well as competent advice, in order to achieve the best possible foundation for the success of their business. In this both our extensive partner network and the CONDA community play important roles.</p>
                 </div>
@@ -33,7 +33,7 @@
             <section class="container mb-5">
                 <h1 class="text-center text-success font-weight-light mb-5">For us ideas are the starting point. But it is the teams and their engagement, who turn visions into reality!</h1>
                 <h1 class="display-4 mb-5">The Founding Team</h1>
-                <h4 class="font-weight-light mb-4">Who is behind the idea of CONDA.</h4>
+                <h4 class="font-weight-light mb-5">Who is behind the idea of CONDA.</h4>
                 <!--paul-->
                 <div class="d-flex align-items-center mb-5">
                     <!--image-->
