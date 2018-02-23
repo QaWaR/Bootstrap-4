@@ -17,7 +17,7 @@
                     <nav class="navbar navbar-expand-lg navbar-light px-0">
                         <!--navbar brand-->
                         <a class="navbar-brand d-flex align-items-center" href="index.php"><img src="imgs/conda-logo-default.png">
-                            <p class="text-uppercase ml-3 m-0 small text-dark">crowd<b>investing</b></p></a>
+                            <p class="text-uppercase ml-3 m-0 small text-dark d-none d-md-block">crowd<b>investing</b></p></a>
                         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
                             <span class="navbar-toggler-icon"></span>
                         </button>

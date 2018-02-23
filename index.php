@@ -19,31 +19,31 @@
             <!--cta buttons-->
             <section class="container"> 
                 <div class="d-flex justify-content-around py-5 row">
-                    <div class="cta col-sm-6 col-md-2 text-center">
+                    <div class="cta col-sm-6 col-md-2 text-center mb-4">
                         <a href="#" class="text-dark"><div class="cta-img bg-success rounded-circle d-inline-block mx-auto px-2 py-1 text-center">
                             <i class="fas fa-fw fa-search text-white"></i>
                         </div>
                         <p class="m-0">Discover investment opportunities</p></a>
                     </div>
-                    <div class="cta col-sm-6 col-md-2 text-center">
+                    <div class="cta col-sm-6 col-md-2 text-center mb-4">
                         <a href="#" class="text-dark"><div class="cta-img bg-success rounded-circle d-inline-block mx-auto px-2 py-1 text-center">
                             <i class="fas fa-fw fa-pencil-alt text-white"></i>
                         </div>
                         <p class="m-0">Register online now</p></a>
                     </div>
-                    <div class="cta col-sm-6 col-md-2 text-center">
+                    <div class="cta col-sm-6 col-md-2 text-center mb-4">
                         <a href="#" class="text-dark"><div class="cta-img bg-success rounded-circle d-inline-block mx-auto px-2 py-1 text-center">
                             <i class="fas fa-fw fa-envelope text-white"></i>
                         </div>
                         <p class="m-0">Register for our newsletter</p></a>
                     </div>
-                    <div class="cta col-sm-6 col-md-2 text-center">
+                    <div class="cta col-sm-6 col-md-2 text-center mb-4">
                         <a href="#" class="text-dark"><div class="cta-img bg-success rounded-circle d-inline-block mx-auto px-2 py-1 text-center">
                             <i class="fas fa-fw fa-chart-bar text-white"></i>
                         </div>
                         <p class="m-0">Manage your own project portfolio</p></a>
                     </div>
-                    <div class="cta col-sm-6 col-md-2 text-center">
+                    <div class="cta col-sm-6 col-md-2 text-center mb-4">
                         <a href="#" class="text-dark"><div class="cta-img bg-success rounded-circle d-inline-block mx-auto px-2 py-1 text-center">
                             <i class="fas fa-fw fa-question text-white"></i>
                         </div>
@@ -55,11 +55,11 @@
             <section class="container">
                 <div class="row">
                     <!--investmentprojects-->
-                    <div class="col-xs-12 col-lg-8">
+                    <div class="col-12 col-lg-8">
                         <h2 class="mb-3">Investmentprojects</h2>
                         <div class="row">
                             <!--greenstorm-->
-                            <div class="col-6">
+                            <div class="col-12 col-md-6">
                                 <a href="#" class="text-dark"><div class="card mt-3">
                                     <img class="card-img-top" src="imgs/greenstorm.jpg">
                                     <div class="card-header bg-success text-white d-flex justify-content-between align-items-center">
@@ -90,7 +90,7 @@
                                 </div></a>
                             </div>
                             <!--pelletswerk saschenburg-->
-                            <div class="col-6">
+                            <div class="col-12 col-md-6">
                                 <a href="#" class="text-dark"><div class="card mt-3">
                                     <img class="card-img-top" src="imgs/pelletswerk.png">
                                     <div class="card-header bg-primary text-white d-flex justify-content-between align-items-center">
@@ -112,7 +112,7 @@
                                                     <small>89 Investors</small>
                                                     <p class="m-0">128%</p>
                                                 </div>
-                                                <div class="aside-data col-12 col-sm-6 flex-wrap flex-column align-self-center text-center mb-3 mb-sm-0">
+                                                <div class="aside-data col-12 col-sm-6 flex-wrap flex-column align-self-center text-center mb-3">
                                                     <p class="m-0">100,000<sup>€</sup></p>
                                                     <small>Minimum Investment</small>
                                                     <p class="m-0">400,000<sup>€</sup></p>
@@ -124,7 +124,7 @@
                                 </div></a>
                             </div>
                             <!--coolgiants-->
-                            <div class="col-6">
+                            <div class="col-12 col-md-6">
                                 <a href="#" class="text-dark"><div class="card mt-3">
                                     <img class="card-img-top" src="imgs/coolgiants.jpg">
                                     <div class="card-header bg-success text-white d-flex justify-content-between align-items-center">
@@ -155,7 +155,7 @@
                                 </div></a>
                             </div>
                             <!--sycube-->
-                            <div class="col-6">
+                            <div class="col-12 col-md-6">
                                 <a href="single-campaign.php" class="text-dark"><div class="card mt-3">
                                     <img class="card-img-top" src="imgs/sycube.png">
                                     <div class="card-header bg-success text-white d-flex justify-content-between align-items-center">
@@ -186,7 +186,7 @@
                                 </div></a>
                             </div>
                             <!--lieferschotte-->
-                            <div class="col-6">
+                            <div class="col-12 col-md-6">
                                 <a href="#" class="text-dark"><div class="card mt-3">
                                     <img class="card-img-top" src="imgs/lieferschotte.jpg">
                                     <div class="card-header bg-success text-white d-flex justify-content-between align-items-center">
@@ -217,7 +217,7 @@
                                 </div></a>
                             </div>
                             <!--content exchange-->
-                            <div class="col-6">
+                            <div class="col-12 col-md-6">
                                 <a href="#" class="text-dark"><div class="card mt-3">
                                     <img class="card-img-top" src="imgs/content-exchange.jpg">
                                     <div class="card-header bg-success text-white d-flex justify-content-between align-items-center">
@@ -248,7 +248,7 @@
                                 </div></a>
                             </div>
                             <!--LCT-->
-                            <div class="col-6">
+                            <div class="col-12 col-md-6">
                                 <a href="#" class="text-dark"><div class="card mt-3">
                                     <img class="card-img-top" src="imgs/LCT.jpg">
                                     <div class="card-header bg-success text-white d-flex justify-content-between align-items-center">
@@ -279,7 +279,7 @@
                                 </div></a>
                             </div>
                             <!--i like tofu-->
-                            <div class="col-6">
+                            <div class="col-12 col-md-6">
                                 <a href="#" class="text-dark"><div class="card mt-3">
                                     <img class="card-img-top" src="imgs/tofu.png">
                                     <div class="card-header bg-success text-white d-flex justify-content-between align-items-center">
@@ -310,7 +310,7 @@
                                 </div></a>
                             </div>
                             <!--alpstories-->
-                            <div class="col-6">
+                            <div class="col-12 col-md-6">
                                 <a href="#" class="text-dark"><div class="card mt-3">
                                     <img class="card-img-top" src="imgs/alpstories.jpg">
                                     <div class="card-header bg-success text-white d-flex justify-content-between align-items-center">
