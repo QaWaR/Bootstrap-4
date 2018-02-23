@@ -56,9 +56,7 @@
                 <div class="row">
                     <!--investmentprojects-->
                     <div class="col-xs-12 col-lg-8">
-                        <div class="col-12">
-                            <h2>Investmentprojects</h2>
-                        </div>
+                        <h2 class="mb-3">Investmentprojects</h2>
                         <div class="row">
                             <!--greenstorm-->
                             <div class="col-6">
@@ -344,15 +342,13 @@
                             </div>
                             <!--show more button-->
                             <div class="container-fluid">
-                                <button type="button" class="btn btn-light py-3 col-12 mt-3 rounded-0 border border-light">DISCOVER MORE PROJECTS</button>
+                                <button type="button" class="btn btn-light py-3 col-12 mt-3 mb-3 rounded-0 border border-light">DISCOVER MORE PROJECTS</button>
                             </div>
                         </div>
                     </div>
                     <!--news-->
                     <div class="col-xs-12 col-lg-4">
-                        <div class="col-12">
-                            <h2>News</h2>
-                        </div>
+                        <h2>News</h2>
                         <!--quarterly report-->
                         <div class="card mt-3">
                             <div class="card-body p-3">
@@ -399,7 +395,7 @@
                             </div>
                         </div>
                         <!--show more button-->
-                        <button type="button" class="btn btn-light py-3 col-12 mt-3 rounded-0 border border-light">MORE NEWS</button>
+                        <button type="button" class="btn btn-light py-3 col-12 mt-3 mb-3 rounded-0 border border-light">MORE NEWS</button>
                     </div>
                 </div>
             </section>
