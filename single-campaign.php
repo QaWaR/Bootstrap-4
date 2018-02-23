@@ -3,27 +3,27 @@
         <!--cover-->
         <div class="cover bg-dark py-5">
             <div class="container">
-                <h1 class="text-light display-4 font-weight-bold m-0"><img src="imgs/sycube/cover-logo.png" alt="">SYCUBE.</h1>
+                <h1 class="text-light display-4 font-weight-bold m-0"><img class="rounded" src="imgs/sycube/cover-logo.png" alt="">SYCUBE.</h1>
                 <h3 class="mb-3 text-light">Zukunft verdient Mobilitat</h3>
                 <h5 class="mb-3 text-light">Mit unserem patentieren, vollautomatischhen Verleihsystem sorgen wir fur nachhaltige Mobilitatslosungen - und das bereits seit 2003.</h5>
-                <!--<button class="btn btn-success btn-lg rounded-0 text-light">READ MORE</button>-->
+                <button class="btn btn-success btn-lg rounded-0 text-light">READ MORE</button>
             </div>
         </div>
         <!--pills-->
         <section class="container">
             <nav>
                 <div class="nav nav-pills" id="pill-list" role="tablist row">
-                    <a href="#pill-overview" id="pill-overview-tab" data-toggle="pill" role="pill" aria-controls="pill-overview-tab" aria-selected="true" class="nav-link active col-3 text-center text-dark bg-white border-success border-bottom rounded-0 pt-5 pb-4 font-weight-bold">OVERVEIW</a>
-                    <a href="#pill-invest" id="pill-invest-tab" data-toggle="pill" role="pill" aria-controls="pill-invest-tab" aria-selected="false" class="nav-link col-3 text-center text-dark bg-white border-success border-bottom rounded-0 pt-5 pb-4 font-weight-bold">INVEST</a>
-                    <a href="#pill-investors-room" id="pill-investors-room-tab" data-toggle="pill" role="pill" aria-controls="pill-investors-room-tab" aria-selected="false" class="nav-link col-3 text-center text-dark bg-white border-success border-bottom rounded-0 pt-5 pb-4 font-weight-bold">INVESTOR'S ROOM</a>
-                    <a href="#pill-blog" id="pill-blog-tab" data-toggle="pill" role="pill" aria-controls="pill-blog-tab" aria-selected="false" class="nav-link col-3 text-center text-dark bg-white border-success border-bottom rounded-0 pt-5 pb-4 font-weight-bold">BLOG</a>
+                    <a href="#pill-overview" id="pill-overview-tab" data-toggle="pill" role="pill" aria-controls="pill-overview-tab" aria-selected="true" class="nav-link active col-12 col-md-3 text-center text-dark bg-white border-success border-bottom rounded-0 py-4 font-weight-bold">OVERVEIW</a>
+                    <a href="#pill-invest" id="pill-invest-tab" data-toggle="pill" role="pill" aria-controls="pill-invest-tab" aria-selected="false" class="nav-link col-12 col-md-3 text-center text-dark bg-white border-success border-bottom rounded-0 py-4 font-weight-bold">INVEST</a>
+                    <a href="#pill-investors-room" id="pill-investors-room-tab" data-toggle="pill" role="pill" aria-controls="pill-investors-room-tab" aria-selected="false" class="nav-link col-12 col-md-3 text-center text-dark bg-white border-success border-bottom rounded-0 py-4 font-weight-bold">INVESTOR'S ROOM</a>
+                    <a href="#pill-blog" id="pill-blog-tab" data-toggle="pill" role="pill" aria-controls="pill-blog-tab" aria-selected="false" class="nav-link col-12 col-md-3 text-center text-dark bg-white border-success border-bottom rounded-0 py-4 font-weight-bold">BLOG</a>
                 </div>
             </nav>
         </section>
         <!--pill content-->
         <section class="container">
             <div class="row">
-                <div class="tab-content col-8" id="pills-tab-content">
+                <div class="tab-content col-12 col-md-8" id="pills-tab-content">
                     <!--overview-->
                     <div class="tab-pane fade show active" id="pill-overview" role="tabpanel" aria-labelledby="pill-overview-tab">
                         <div class="video">
@@ -81,7 +81,7 @@
                                 </div>
                                 <div class="d-flex col-xs-12 col-lg-6 my-3 align-items-center">
                                     <img src="imgs/sycube/team/markus.jpg" alt="" class="rounded-circle r-3">
-                                    <h5 class="pl-2">Markus Leiben<span class="d-block small text-muted">Projekt und Sales Management</span></h5>
+                                    <h5 class="pl-2">Markus Leibetseder<span class="d-block small text-muted">Projekt und Sales Management</span></h5>
                                 </div>
                                 <div class="d-flex col-xs-12 col-lg-6 my-3 align-items-center">
                                     <img src="imgs/sycube/team/andrea.jpg" alt="" class="rounded-circle r-3">
@@ -124,19 +124,19 @@
                         </div>
                         <p class="mb-3">Das System ist bereits jetzt in unterschiedlichen Ausbaustufen im Einsatz und sorgt in zahlreichen Einsatzgebieten erfolgreich für nachhaltige Mobilität. Profitieren Sie von der langjährigen Erfahrung des Unternehmens und werden Sie noch heute Teil des Wachstumsmarkts der Zukunft.</p>
                         <div class="my-3">
-                            <span><b>Fundingziel:</b></span><span>EUR 500.000,00</span>
+                            <span><b>Fundingziel:</b></span><span> EUR 500.000,00</span>
                             <div class="w-100"></div>
-                            <span><b>Mogliche Beteiligung ab:</b></span><span>EUR 100,00</span>
+                            <span><b>Mogliche Beteiligung ab:</b></span><span> EUR 100,00</span>
                             <div class="w-100"></div>
-                            <span><b>Vertragslafzeit:</b></span><span>8 Jahre</span>
+                            <span><b>Vertragslafzeit:</b></span><span> 8 Jahre</span>
                             <div class="w-100"></div>
-                            <span><b>Gewinnbeteiligung:</b></span><span>JA, abhängig vom Betriebserfolg (EBIT) des Unternehmens, zumindest aber in Höhe der Mindestverzinsung von 4,5% (für alle Investitionen bis einschließlich 27.8.2017 sowie für alle Investitionen über 5.000 EUR gilt eine Mindestverzinsung von 5,5%)</span>
+                            <span><b>Gewinnbeteiligung:</b></span><span> JA, abhängig vom Betriebserfolg (EBIT) des Unternehmens, zumindest aber in Höhe der Mindestverzinsung von 4,5% (für alle Investitionen bis einschließlich 27.8.2017 sowie für alle Investitionen über 5.000 EUR gilt eine Mindestverzinsung von 5,5%)</span>
                             <div class="w-100"></div>
-                            <span><b>Unternehmenswertbeteiligung:</b></span><span>JA, am Laufzeitende (wobei die Gewinnbeteiligung der Ermittlung der Unternehmenswertbeteiligung angerechnet wird)<b>Beispielrechnung für eine Investition ab EUR 1.000 (bei Mindestverzinsung 4,5%) (unverbindliche Hochrechnung)</b></span>
+                            <span><b>Unternehmenswertbeteiligung:</b></span><span> JA, am Laufzeitende (wobei die Gewinnbeteiligung der Ermittlung der Unternehmenswertbeteiligung angerechnet wird)<b>Beispielrechnung für eine Investition ab EUR 1.000 (bei Mindestverzinsung 4,5%) (unverbindliche Hochrechnung)</b></span>
                             <div class="w-100"></div>
                             <span><b>Investition:</b></span><span> EUR 1.000,00</span>
                             <div class="w-100"></div>
-                            <span><b>Gesamtauszahlung (in den 8 Jahren):</b></span><span>EUR 3.715,32
+                            <span><b>Gesamtauszahlung (in den 8 Jahren):</b></span><span> EUR 3.715,32
                                     (Berechnung: EUR 1.000,00 Rückzahlung + EUR  1.945, 94 Gewinnbeteiligung + EUR 769,38 Unternehmenswertbeteiligung)</span>
                             <div class="w-100"></div>
                             <a href="#" class="text-success my-3">>>Details Beispielrechnung 4,5%<<</a>
@@ -234,7 +234,7 @@
                                 </div>
                                 <div class="d-flex col-xs-12 col-lg-6 my-3 align-items-center">
                                     <img src="imgs/sycube/team/markus.jpg" alt="" class="rounded-circle r-3">
-                                    <h5 class="pl-2">Markus Leiben<span class="d-block small text-muted">Projekt und Sales Management</span></h5>
+                                    <h5 class="pl-2">Markus Leibetseder<span class="d-block small text-muted">Projekt und Sales Management</span></h5>
                                 </div>
                                 <div class="d-flex col-xs-12 col-lg-6 my-3 align-items-center">
                                     <img src="imgs/sycube/team/andrea.jpg" alt="" class="rounded-circle r-3">
@@ -267,8 +267,8 @@
                     <div class="tab-pane fade" id="pill-investors-room" role="tabpanel" aria-labelledby="pill-investors-room-tab">
                         <p class="text-muted my-5">Please get in touch with us:</p>
                         <div class="d-flex justify-content-between align-items-end mb-2">
-                            <b class="lead">4 comments</b>
-                            <p class="font-weight-light m-0">Logged in as <a href="#">Nebojsa Nikolic</a></p>
+                            <p class="font-weight-normal m-0 lead">4 comments</p>
+                            <p class="font-weight-light m-0">Logged in as <a class="text-muted" href="#">Nebojsa Nikolic</a></p>
                         </div>
                         <hr class="mt-0">
                         <div class="d-flex mb-3">
@@ -280,18 +280,18 @@
                                 <button type="button" role="button" class="btn btn-success btn-lg rounded-0 mb-3">POST COMMENT</button>
                             </form>
                         </div>
-                        <div class="d-flex mb-3">
+                        <div class="d-flex mb-3 flex-wrap">
                             <div class="mx-2">
                                 <img class="rounded-circle p-2" src="imgs/sycube/comments/lukasz.jpg">
                             </div>
                             <div>
-                                <span class="lead text-success">Lukasz Sulkowski</span><span class="text-muted"> on 21. December 2017</span><p>Guten morgen,<br><br>im Video ist die Rede vom Europäischen Marktführer (wahrscheinlich in der Zukunft) Ich finde aber keine Informationen über die Konkurrenz... können Sie bitte die Wettbewerbssituation aufzeigen.<br><br>Es gibt z.B. in meiner Stadt auch ein Fahrradverleihsystem: http://www.norisbike.de/de/nuernberg/ wie kann man diese überzeugen, früher oder später auf Sycube umzustellen?<br><br>Viele Grüße<br><br>Lukasz<br><a href="#" class="text-success d-block">Reply</a></p>
+                                <span class="lead text-success">Lukasz Sulkowski</span><span class="text-muted"> on 21. December 2017</span><p class="mb-4">Guten morgen,<br><br>im Video ist die Rede vom Europäischen Marktführer (wahrscheinlich in der Zukunft) Ich finde aber keine Informationen über die Konkurrenz... können Sie bitte die Wettbewerbssituation aufzeigen.<br><br>Es gibt z.B. in meiner Stadt auch ein Fahrradverleihsystem: http://www.norisbike.de/de/nuernberg/ wie kann man diese überzeugen, früher oder später auf Sycube umzustellen?<br><br>Viele Grüße<br><br>Lukasz<br><a href="#" class="text-success d-block">Reply</a></p>
                                 <div class="d-flex mb-3">
                                     <div class="mx-2">
                                         <img class="rounded-circle p-2" src="imgs/sycube/comments/lukasz.jpg">
                                     </div>
                                     <div>
-                                        <span class="lead text-success">Lukasz Sulkowski</span><span class="text-muted"> am 26. January 2018</span><p>Es wäre schön wenn man auf die Antworten eingehen würde so lange das Funding auf Conda läuft.... ;)</p>
+                                        <span class="lead text-success">Lukasz Sulkowski</span><span class="text-muted"> am 26. January 2018</span><p class="mb-4">Es wäre schön wenn man auf die Antworten eingehen würde so lange das Funding auf Conda läuft.... ;)</p>
                                     </div>
                                 </div>
                             </div>
@@ -301,7 +301,7 @@
                                 <img class="rounded-circle p-2 " src="imgs/sycube/comments/klaus.jpg">
                             </div>
                             <div>
-                                <span class="lead text-success">Klaus Ziegler</span><span class="text-muted"> on 04. October 2017</span><p>Sehr geehrter Herr Stehr,<br>herzlichen Dank für ihr Interesse an unserem Unternehmen.<br>Nachdem sich einige Projekt, welche für das Jahr 2017 avisiert waren durch politische Veränderungen in das nächste Jahr verschoben haben, werden die anvisierten Umsätze ca. bei 65% liegen<br><br>Für weitere Fragen stehe ich selbstverständlich immer gerne zu ihrer Verfügung.<br><br>Mit freundlichen Grüßen<br>Klaus Ziegler<br><a href="#" class="text-success d-block">Reply</a></p>
+                                <span class="lead text-success">Klaus Ziegler</span><span class="text-muted"> on 04. October 2017</span><p class="mb-4">Sehr geehrter Herr Stehr,<br>herzlichen Dank für ihr Interesse an unserem Unternehmen.<br>Nachdem sich einige Projekt, welche für das Jahr 2017 avisiert waren durch politische Veränderungen in das nächste Jahr verschoben haben, werden die anvisierten Umsätze ca. bei 65% liegen<br><br>Für weitere Fragen stehe ich selbstverständlich immer gerne zu ihrer Verfügung.<br><br>Mit freundlichen Grüßen<br>Klaus Ziegler<br><a href="#" class="text-success d-block">Reply</a></p>
                             </div>
                         </div>
                         <div class="d-flex mb-3">
@@ -309,7 +309,7 @@
                                 <p class="h1 font-weight-light text-white bg-primary rounded-circle px-4 py-3 mb-0">JS</p>
                             </div>
                             <div>
-                                <span class="lead text-success">Jan Stehr</span><span class="text-muted"> on 16. August 2017</span><p>Guten Tag,<br>sie planen für 2017 mit Nettoerlösen von ca. 2,2 Mio.€. Können Sie Aussagen zu den bisherigen Umsätzen/ Erlösen in 2017 machen?<br><br>Beste Grüße<br>Jan<br><a href="#" class="text-success d-block">Reply</a></p>
+                                <span class="lead text-success">Jan Stehr</span><span class="text-muted"> on 16. August 2017</span><p class="mb-4">Guten Tag,<br>sie planen für 2017 mit Nettoerlösen von ca. 2,2 Mio.€. Können Sie Aussagen zu den bisherigen Umsätzen/ Erlösen in 2017 machen?<br><br>Beste Grüße<br>Jan<br><a href="#" class="text-success d-block">Reply</a></p>
                             </div>
                         </div>
                     </div>
@@ -331,14 +331,14 @@
                     </div>
                 </div>
                 <!--aside menu-->
-                <div class="col-4">
+                <div class="col-12 col-md-4">
                     <div class="mb-1 mt-5 bg-light p-3">
                         <h2 class="mb-0">Investment Info</h2>
                     </div>
                     <div class="mb-1 bg-light p-3">
                         <h4 class="text-success font-weight-normal mb-0">FINISHED</h4>
                     </div>
-                    <div class="mb-1 d-flex bg-light p-3 flex-column flex-lg-row align-items-center text-center">
+                    <div class="mb-1 d-flex bg-light p-3 align-items-center text-center">
                         <div>
                             <h5 class="m-0">304<sup>%</sup></h5>
                             <p class="m-0">financed</p>
@@ -357,12 +357,12 @@
                     </div>
                     <div class="mb-1 bg-light p-3">
                         <i class="far fa-comment"></i> 1
-                        <button type="button" role="button" class="btn btn-lg btn-success w-100 d-block text-center m-0">FOLLOW</button>
+                        <button type="button" role="button" class="btn btn-lg btn-success w-100 d-block text-center m-0 rounded-0">FOLLOW</button>
                     </div>
                     <div class="mb-3 bg-light pb-5 p-3">
                         <p class="mw-100">
-                            <a class="text-success" href="#">Unternehmenswertbeteiligung:</a> JA, am Laufzeitende (wobei die Gewinnbeteiligung der Ermittlung der Unternehmenswertbeteiligung angerechnet wird)
-                            <a class="text-success" href="#">Gewinnbeteiligung:</a> JA, abhängig vom Betriebserfolg (EBIT) des Unternehmens, zumindest aber in Höhe der Mindestverzinsung von 4,5% (Für alle Investitionen bis einschließlich 27.8.2017 sowie für alle Investitionen über 5.000 EUR gilt eine Mindestverzinsung von 5,5%)
+                            <a class="text-success d-block" href="#">Unternehmenswertbeteiligung:</a> JA, am Laufzeitende (wobei die Gewinnbeteiligung der Ermittlung der Unternehmenswertbeteiligung angerechnet wird)
+                            <a class="text-success d-block" href="#">Gewinnbeteiligung:</a> JA, abhängig vom Betriebserfolg (EBIT) des Unternehmens, zumindest aber in Höhe der Mindestverzinsung von 4,5% (Für alle Investitionen bis einschließlich 27.8.2017 sowie für alle Investitionen über 5.000 EUR gilt eine Mindestverzinsung von 5,5%)
                             Minimaler Zeichnungsbetrag: EUR 100
                             Maximaler Zeichnungsbetrag: EUR 5000 (<a class="text-success" href="#">höhere Beträge auf Nachfrage möglich</a>)
                         </p>
@@ -388,35 +388,35 @@
                     </div>
                     <div class="mb-1 bg-light p-3">
                         <div class="d-flex align-items-center flex-wrap">
-                            <h1 class="mb-0 text-success mb-3">500<sup>€</sup></h1><p class="h5 ml-lg-2 font-weight-light text-success mb-0 ml-md-1 mb-3">Investment</p>
+                            <h1 class="mb-0 text-success mb-3">500<sup>€</sup></h1><p class="h5 ml-4 font-weight-light text-success mb-0 mb-3">Investment</p>
                         </div>
                         <h4 class="mb-0 mb-3">BRONZE</h4>
                         <p class="mb-0">Als Dankeschön für Ihre Investition erhalten Sie zusätzlich zu der laufenden Verzinsung und einer Beteiligung an der Unternehmenswertsteigerung eine Sycube-Powerbank.</p>
                     </div>
                     <div class="mb-1 bg-light p-3">
                         <div class="d-flex align-items-center flex-wrap">
-                            <h1 class="mb-0 text-success mb-3">2,500<sup>€</sup></h1><p class="h5 ml-lg-2 font-weight-light text-success mb-0 ml-md-1 mb-3">Investment</p>
+                            <h1 class="mb-0 text-success mb-3">2,500<sup>€</sup></h1><p class="h5 ml-4 font-weight-light text-success mb-0 mb-3">Investment</p>
                         </div>
                         <h4 class="mb-0 mb-3">SILBER</h4>
                         <p class="mb-0">Als Dankeschön für Ihre Investition erhalten Sie zusätzlich zu der laufenden Verzinsung und einer Beteiligung an der Unternehmenswertsteigerung ein Paar Bose SoundSport Headphones.</p>
                     </div>
                     <div class="mb-1 bg-light p-3">
                         <div class="d-flex align-items-center flex-wrap">
-                            <h1 class="mb-0 text-success mb-3">5,000<sup>€</sup></h1><p class="h5 ml-lg-2 font-weight-light text-success mb-0 ml-md-1 mb-3">Investment</p>
+                            <h1 class="mb-0 text-success mb-3">5,000<sup>€</sup></h1><p class="h5 ml-4 font-weight-light text-success mb-0 mb-3">Investment</p>
                         </div>
                         <h4 class="mb-0 mb-3">GOLD</h4>
                         <p class="mb-0">Als Dankeschön für Ihre Investition erhalten Sie zusätzlich zu der laufenden Verzinsung und einer Beteiligung an der Unternehmenswertsteigerung ein Paar Bose SoundLink around-ear wireless II Headphones.</p>
                     </div>
-                    <div class="mb-1 bg-light p-3">
+                    <div class="mb-5 bg-light p-3">
                         <div class="d-flex align-items-center flex-wrap">
-                            <h1 class="mb-0 text-success mb-3">10,000<sup>€</sup></h1><p class="h5 ml-lg-2 font-weight-light text-success mb-0 ml-md-1 mb-3">Investment</p>
+                            <h1 class="mb-0 text-success mb-3">10,000<sup>€</sup></h1><p class="h5 ml-4 font-weight-light text-success mb-0 mb-3">Investment</p>
                         </div>
                         <h4 class="mb-0 mb-3">PLATIN</h4>
                         <p class="mb-0">Als Dankeschön für Ihre Investition erhalten Sie zusätzlich zu der laufenden Verzinsung und einer Beteiligung an der Unternehmenswertsteigerung ein Paar Bose QuietComfort 35 Wireless Headphones.</p>
                     </div>
                     
                     <!--company info-->
-                    <div class="mt-5">
+                    <div class="mb-5">
                         <div class="border p-3 mb-0"><h2>Company Info</div>
                         <div class="border border-top-0 d-flex justify-content-center p-3 flex-wrap">
                             <div class="text-success text-center mx-2">
@@ -437,7 +437,7 @@
 
 
                     <!--contact info-->
-                    <div class="mt-5">
+                    <div class="mb-5">
                         <div class="border p-3 mb-0"><h2>Contact Info</div>
                         <div class="border border-top-0 p-3">
                             <p class="m-0">SYCUBE Informationstechnologie GmbH Erdbergstraße 52-60/3/4/16, 1030 Wien</p>
