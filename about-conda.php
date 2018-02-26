@@ -115,7 +115,7 @@
                     <div class="col-12 col-sm-6 d-flex align-items-center mb-5">
                         <div class="d-flex">
                             <div class="pr-2">
-                                <p class="h1 font-weight-light text-white bg-primary rounded-circle p-3 mb-0">NN</p>
+                                <p class="h1 font-weight-light text-white bg-primary rounded-circle p-3 mb-0">MK</p>
                             </div>
                         </div>
                         <div>
@@ -126,7 +126,7 @@
                     <div class="col-12 col-sm-6 d-flex align-items-center mb-5">
                         <div class="d-flex">
                             <div class="pr-2">
-                                <p class="h1 font-weight-light text-white bg-primary rounded-circle p-3 mb-0">NN</p>
+                                <p class="h1 font-weight-light text-white bg-primary rounded-circle p-3 mb-0">LS</p>
                             </div>
                         </div>
                         <div>
@@ -137,7 +137,7 @@
                     <div class="col-12 col-sm-6 d-flex align-items-center mb-5">
                         <div class="d-flex">
                             <div class="pr-2">
-                                <p class="h1 font-weight-light text-white bg-primary rounded-circle p-3 mb-0">NN</p>
+                                <p class="h1 font-weight-light text-white bg-primary rounded-circle p-3 mb-0">DP</p>
                             </div>
                         </div>
                         <div>
