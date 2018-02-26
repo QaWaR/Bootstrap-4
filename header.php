@@ -23,7 +23,7 @@
                         </button>
                         <!--navbar items-->
                         <div class="collapse navbar-collapse text-center text-lg-left" id="navbarTogglerDemo02">
-                            <div class="navbar-nav ml-auto mt-2 mt-lg-0">
+                            <div class="navbar-nav ml-auto mt-2 mt-lg-0 align-items-center">
                                 <a class="nav-item text-uppercase text-dark h-100 p-3" href="#"><span class="small font-weight-bold d-block">projects to</span><span>discover</span></a>
                                 <a class="nav-item text-uppercase text-dark h-100 p-3" href="#"><span class="small font-weight-bold d-block">why invest in</span><span>crowdinvesting</span></a>
                                 <a class="nav-item text-uppercase text-dark h-100 p-3" href="submit-project.php"><span class="small font-weight-bold d-block">submit a</span><span>project</span></a>
