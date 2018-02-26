@@ -99,12 +99,12 @@
                                             <img class="img-fluid" src="imgs/capaign-logos/pelletswerk.jpg" alt="">
                                         </div>
                                     </div>
-                                    <div class="card-body bg-light">
+                                    <div class="card-body">
                                         <h5 class="card-heading">Pelletswerk Sachsenburg</h5>
                                         <h6 class="small card-subtitle text-muted"><i class="fas fa-map-marker-alt"></i> Hamburg, Deutschland</h6>
                                         <p class="my-3">The future project of Solarenergie Ulm offers the opportunity to invest in green energy!</p>
                                     </div>
-                                    <div class="bg-light">
+                                    <div class="bg-light border-top pt-3">
                                         <div class="container-fluid">
                                             <div class="row">
                                                 <div class="circle-data col-12 col-sm-6 flex-wrap flex-column align-self-center text-center mb-3 mb-sm-0">
