@@ -1,12 +1,15 @@
     <?php include 'header.php';?>
     <main>
         <!--cover-->
-        <div class="cover bg-dark py-5">
+        <div class="cover bg-primary py-5">
             <div class="container">
-                <h1 class="text-light display-4 font-weight-bold m-0"><img class="rounded" src="imgs/sycube/cover-logo.png" alt="">SYCUBE.</h1>
-                <h3 class="mb-3 text-light">Zukunft verdient Mobilitat</h3>
-                <h5 class="mb-3 text-light">Mit unserem patentieren, vollautomatischhen Verleihsystem sorgen wir fur nachhaltige Mobilitatslosungen - und das bereits seit 2003.</h5>
-                <button class="btn btn-success btn-lg rounded-0 text-light">READ MORE</button>
+                <div class="d-flex">
+                    <img class="rounded pr-2" src="imgs/sycube/cover-logo.png" alt=""><h2 class="text-light display-4 font-weight-bold m-0 text-center text-md-left">SYCUBE.</h2>
+                </div>
+                <h3 class="mb-3 text-light text-center text-md-left">Zukunft verdient Mobilitat</h3>
+                <h5 class="mb-3 text-light text-center text-md-left">Mit unserem patentieren, vollautomatischhen Verleihsystem sorgen wir fur nachhaltige Mobilitatslosungen - und das bereits seit 2003.</h5>
+                <button class="btn btn-success btn-lg rounded-0 text-light d-none d-md-block">READ MORE</button>
+                <button class="btn btn-success btn-lg rounded-0 text-light d-block d-md-none w-100">READ MORE</button>
             </div>
         </div>
         <!--pills-->
